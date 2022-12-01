@@ -2,4 +2,4 @@
 
 My attempt on Advent of Code 2022
 
-liviaellen.com
+https://www.liviaellen.com
